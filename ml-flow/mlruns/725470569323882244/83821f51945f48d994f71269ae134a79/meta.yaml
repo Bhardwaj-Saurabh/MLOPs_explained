@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/MLOPs_explained/ml-flow/mlruns/725470569323882244/83821f51945f48d994f71269ae134a79/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '725470569323882244'
+lifecycle_stage: active
+run_id: 83821f51945f48d994f71269ae134a79
+run_name: chill-fowl-405
+run_uuid: 83821f51945f48d994f71269ae134a79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730908715569
+status: 1
+tags: []
+user_id: gitpod
