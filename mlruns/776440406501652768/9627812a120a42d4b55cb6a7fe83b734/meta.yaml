@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/776440406501652768/9627812a120a42d4b55cb6a7fe83b734/artifacts
+end_time: 1730904284859
+entry_point_name: ''
+experiment_id: '776440406501652768'
+lifecycle_stage: active
+run_id: 9627812a120a42d4b55cb6a7fe83b734
+run_name: abrasive-dove-445
+run_uuid: 9627812a120a42d4b55cb6a7fe83b734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730904284838
+status: 4
+tags: []
+user_id: gitpod

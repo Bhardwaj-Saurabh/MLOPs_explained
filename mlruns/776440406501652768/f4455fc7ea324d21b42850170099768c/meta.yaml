@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/776440406501652768/f4455fc7ea324d21b42850170099768c/artifacts
+end_time: 1730904443477
+entry_point_name: ''
+experiment_id: '776440406501652768'
+lifecycle_stage: active
+run_id: f4455fc7ea324d21b42850170099768c
+run_name: crawling-lynx-604
+run_uuid: f4455fc7ea324d21b42850170099768c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730904443410
+status: 4
+tags: []
+user_id: gitpod

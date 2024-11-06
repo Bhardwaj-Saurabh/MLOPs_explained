@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730904491228
+current_stage: None
+description: ''
+last_updated_timestamp: 1730904491228
+name: traacking-experiments
+run_id: b55fa223720e40938a14bd0df2915b6e
+run_link: ''
+source: mlflow-artifacts:/776440406501652768/b55fa223720e40938a14bd0df2915b6e/artifacts/Iris_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/776440406501652768/b55fa223720e40938a14bd0df2915b6e/artifacts/Iris_model
+user_id: null
+version: 1

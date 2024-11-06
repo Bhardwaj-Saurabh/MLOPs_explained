@@ -1,0 +1,6 @@
+notebook
+scikit-learn
+matplotlib
+seaborn
+mlflow
+pandas
